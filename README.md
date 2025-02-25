@@ -6,4 +6,4 @@ Focus: Covers topics like loops, conditionals, functions, file handling, and mor
 Educational Value: Students can use this repository to:
 Understand key concepts in Python.
 Learn proper coding practices and formatting.
-Debug their own solutions using these examples as a reference.
+Debug their own solutions using these examples as a reference. 
